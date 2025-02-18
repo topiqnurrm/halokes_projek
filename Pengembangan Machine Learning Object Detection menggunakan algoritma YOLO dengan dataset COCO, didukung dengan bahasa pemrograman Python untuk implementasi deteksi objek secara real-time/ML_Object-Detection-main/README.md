@@ -1,3 +1,3 @@
-Download dataset below
+dataset :
 
-https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4-p5.weights
+https://drive.google.com/drive/folders/1KXcyn-aYrX6as-qezpov8WzXf49MlEHy?usp=sharing
